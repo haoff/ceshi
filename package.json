@@ -1,0 +1,23 @@
+{
+  "name": "learnning",
+  "version": "1.0.0",
+  "description": "ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haoff/ceshi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haoff/ceshi/issues"
+  },
+  "homepage": "https://github.com/haoff/ceshi#readme",
+  "devDependencies": {
+    "element-ui": "^2.15.0",
+    "mand-mobile": "^2.5.15"
+  }
+}
