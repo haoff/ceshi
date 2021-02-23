@@ -18,6 +18,7 @@
   "homepage": "https://github.com/haoff/ceshi#readme",
   "devDependencies": {
     "element-ui": "^2.15.0",
+    "lodash": "^4.17.21",
     "mand-mobile": "^2.5.15"
   }
 }
