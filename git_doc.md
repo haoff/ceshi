@@ -66,7 +66,7 @@ core.ignorecase=true
   +  合并拉取分支关联远程分支，提前解决冲突
 + git push 
   +  将本地分支内容推向远程仓库关联分支
-  +  本地分支未关联远程仓库分支   git push origin 远程分支名
+  +  本地分支未关联远程仓库分支   git push --set-upstream origin 远程分支名
 + git log 
   +  查看分支 git commit 记录
 + git reset --hard "commitId" 
